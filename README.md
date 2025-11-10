@@ -19,3 +19,17 @@ This project analyzes UK cancer registry data to identify patterns in cancer inc
 | Logistic Regression | **81.1%** |
 
 ### 📁 Project Structure
+
+## 📊 Visual Insights
+
+### 📈 Cancer Incidence Trends (2013–2020)
+![Cancer Incidence Trends](images/Cancer%20inciedence%20trends%202013-2020.png)
+
+### 🩺 Top 5 Most Common Cancer Types
+![Top 5 Most Common Cancer Types](images/Top%205%20Most%20Common%20Cancer%20Types.png)
+
+### ❤️ Highest 5-Year Survival Rate Cancers
+![Highest 5-Year Survival](images/Highest%205%20Year%20Survival%20Cancer.png)
+
+### ⚠️ Lowest 5-Year Survival Rate Cancers
+![Lowest 5-Year Survival](images/Lowest%205%20Year%20Survival%20Cancer.png)
